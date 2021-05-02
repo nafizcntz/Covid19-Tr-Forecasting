@@ -1,4 +1,4 @@
-#  😷 Makine Öğrenmesi ile Türkiye Covid Vaka Tahminlesi 🦠
+#  😷 Makine Öğrenmesi ile Türkiye Covid Vaka Tahmini 🦠
 
 ![Alt Text](https://i.pinimg.com/originals/c6/28/87/c62887db7cea40ab5753171c86e456ef.gif)
 
